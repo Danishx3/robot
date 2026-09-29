@@ -1,0 +1,8 @@
+pyserial
+opencv-python
+pygame
+vosk
+sounddevice
+pyttsx3
+requests
+numpy
